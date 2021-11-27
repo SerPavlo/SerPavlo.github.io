@@ -12,6 +12,10 @@ body{
      box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3) ; 	
      flex-wrap : wrap;  
 }
+.img{
+	width: 80%;
+	height:80%;
+}
  @media all and(max-width: 1024px){
  	.img-box{
  	column-count: 3;
